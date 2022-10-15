@@ -71,8 +71,9 @@ h1{
     width: 50px;
     height: 50px;
     padding: 0px;
+    margin-right: 50px;
     border-radius: 120px;
     position: relative;
-    left: 500px;
+    left: 570px;
     top: 320px;
 }
