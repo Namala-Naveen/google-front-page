@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(39,93,43);
+    font-family: Arial, Helvetica, sans-serif;
+} 
+h1{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 100px;
+    width: 100%;
+    padding-top: 180px;
+}
+.topnav{
+    position: relative;
+}
+.search-box{
+    position: absolute;
+    top: 200px;
+    left: 450px;
+    border-radius: 30px;
+    width: 40%;
+    height: 40px;
+    border: none;
+}
+.btn{
+    position: relative;
+}
+.imagediv{
+    padding: 0;
+    position: relative;
+    top: 170px;
+    left: 610px;
+    height: auto;
+    width: 20%;
+}
+.button1{
+    position: absolute;
+    cursor: pointer;
+  left: 980px;
+  top: 209px;
+  color: black;
+  font-size: 16px;
+  background-color: whitesmoke;
+  border: none;
+  box-shadow: 0 2px #999;
+  border-radius: 15px;
+}
+.button1:active{
+  transform: translateY(4px);
+}
+.botnav {
+    position: absolute;
+    left: 1285px;
+    bottom: 665px;
+    color: whitesmoke;
+}
+.newnav{
+    position: absolute;
+    left: 1350px;
+    bottom: 665px;
+    color: whitesmoke;
+}
+.searchimg {
+    position: relative;
+}
+.searchimg {
+    position: absolute;
+    top: 207px;
+    left: 460px;
+}
+.tabs{
+    width: 50px;
+    height: 50px;
+    padding: 0px;
+    border-radius: 120px;
+    position: relative;
+    left: 500px;
+    top: 320px;
+}
