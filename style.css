@@ -285,26 +285,26 @@ h1{
     }
   
     .search-box {
-      top: 32vh;
+      top: 28vh;
       left: 2%;
       width: 96%;
       height: 7vh;
     }
   
     .imagediv {
-      top: 25vh;
+      top: 20vh;
       left: 5%;
       width: 90%;
     }
   
     .button1 {
-      top: 35vh;
+      top: 29vh;
       font-size: 4vw;
       border-radius: 8vw;
     }
   
     .botnav {
-      left: 80%;
+      left: 72%;
       bottom: 80vh;
     }
   
@@ -324,7 +324,7 @@ h1{
       margin-right: 15vw;
       border-radius: 30vw;
       left: 10%;
-      top: 46vh;
+      top: 42vh;
     }
   }
   
