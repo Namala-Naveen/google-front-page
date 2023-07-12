@@ -285,7 +285,7 @@ h1{
     }
   
     .search-box {
-      top: 35vh;
+      top: 32vh;
       left: 2%;
       width: 96%;
       height: 7vh;
@@ -298,19 +298,19 @@ h1{
     }
   
     .button1 {
-      top: 38vh;
+      top: 35vh;
       font-size: 4vw;
       border-radius: 8vw;
     }
   
     .botnav {
-      left: 50%;
-      bottom: 50vh;
+      left: 80%;
+      bottom: 80vh;
     }
   
     .newnav {
-      left: 55%;
-      bottom: 50vh;
+      left: 85%;
+      bottom: 80vh;
     }
   
     .searchimg {
@@ -319,12 +319,12 @@ h1{
     }
   
     .tabs {
-      width: 6vw;
-      height: 6vw;
+      width: 8vw;
+      height: 8vw;
       margin-right: 15vw;
       border-radius: 30vw;
       left: 10%;
-      top: 50vh;
+      top: 46vh;
     }
   }
   
