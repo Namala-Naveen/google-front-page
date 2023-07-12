@@ -298,9 +298,10 @@ h1{
     }
   
     .button1 {
-      top: 29vh;
+      top: 28vh;
       font-size: 5vw;
       border-radius: 8vw;
+      left: 80%;
     }
   
     .botnav {
